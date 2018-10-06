@@ -1,0 +1,1 @@
+export const final_url="http://www.transcorp.cregital.com/";
